@@ -2,11 +2,11 @@
 
 - Application structure
   - Modularity
-  - Components h
+  - Components: 🖐️ used
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
   - CQS
   - Leaking abstractions
   - Multiparadigm code

@@ -2,22 +2,22 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming: 👂 heard
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,17 +27,17 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Constructor: 👂 heard
+  - Operator `new`: 👂 heard
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 👂 heard
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance: 👂 heard
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
   - Interface
@@ -64,11 +64,11 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
