@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 
-  - Imperative programming h
+  - Procedural programming
+  - Imperative programming: 👂 heard
   - Structured programming
   - Non-structured programming
-  - Functional programming h
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming h
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,17 +27,17 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
-  - Operator `new` h
-  - Static method h 
-  - Method u
-  - Async method h
+  - Constructor: 👂 heard
+  - Operator `new`: 👂 heard
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 👂 heard
   - Getters, Setters
-  - Public fields h
-  - Private fields h
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance h
-  - Parent class h
+  - Inheritance: 👂 heard
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
   - Interface
@@ -64,23 +64,23 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton h
-  - Factory Method h
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
-  - State 
+  - State
   - Bridge
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
