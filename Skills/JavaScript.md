@@ -1,12 +1,12 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` h
+  - `Function` h
+  - `Boolean` h
+  - `Number` h
   - `BigInt`
-  - `String`
+  - `String` h
   - `Symbol`
   - `Infinity`
   - `NaN`
@@ -24,7 +24,7 @@
   - Async iterator
   - Chaining
   - Optional chaining
-  - IIFE
+  - IIFE 
   - Async IIFE
   - `global`
   - `globalThis`

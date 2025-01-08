@@ -2,7 +2,7 @@
 
 - Application structure
   - Modularity
-  - Components
+  - Components h
   - Directories
   - GRASP
   - SOLID

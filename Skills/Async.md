@@ -25,8 +25,8 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise h
+  - Async/await h
   - Future
   - Deferred
   - Sync generator

@@ -6,18 +6,18 @@
   - Subject domain
   - Algorithm
   - Syntax
-  - Semantics
+  - Semantics h
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language k
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Module h
+  - Library h
+  - Package h
+  - Component h
+  - Framework h
   - Platform
   - Source code
   - Object code
@@ -29,7 +29,7 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) h
   - KISS principle
 - Syntax and concepts
   - Value
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array h
+  - Structure 
   - Record
   - Enum
   - Instance
@@ -157,16 +157,16 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git h
+  - Github h
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
@@ -203,37 +203,37 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
+  - Virtual memory h
+  - File system h
+  - Linux u
+  - Unix h
+  - BSD h
   - MacOS
-  - Windows
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII 
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA h
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8 h
+  - W3C h
   - ODMG
