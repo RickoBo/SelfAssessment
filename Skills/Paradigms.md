@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming 
+  - Imperative programming h
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming h
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,17 +27,17 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Constructor h
+  - Operator `new` h
+  - Static method h 
+  - Method u
+  - Async method h
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields h
+  - Private fields h
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance h
+  - Parent class h
   - Polymorphism
   - Abstract class
   - Interface
@@ -64,23 +64,23 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton h
+  - Factory Method h
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer h
   - Strategy
   - Facade
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
-  - State
+  - State 
   - Bridge
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator h
   - Flyweight
   - Mediator
   - Memento
